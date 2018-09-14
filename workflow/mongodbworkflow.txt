@@ -1,0 +1,349 @@
+/* 1 */
+{
+    "_id" : ObjectId("5aa7a7b975d80749b129cdf1"),
+    "DealID" : 1000,
+    "ShortName" : "ACA 2007-1"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5aa7a7b975d80749b129cdf2"),
+    "DealID" : 1001,
+    "ShortName" : "ACAS 2007-2"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5aa7a7b975d80749b129cdf3"),
+    "DealID" : 1002,
+    "ShortName" : "ACES 2005-23"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5aa7a7b975d80749b129cdf4"),
+    "DealID" : 1003,
+    "ShortName" : "Adagio I"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5aa7a7b975d80749b129cdf5"),
+    "DealID" : 1004,
+    "ShortName" : "Alzette"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5aa7a7b975d80749b129cdf6"),
+    "DealID" : 1005,
+    "ShortName" : "Anchorage Crossover"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5aa7a7ba75d80749b129cdf7"),
+    "DealID" : 1006,
+    "ShortName" : "ARCC 2006-1"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5aa7a7ba75d80749b129cdf8"),
+    "DealID" : 1007,
+    "ShortName" : "Archimedes IV"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5aa7a7ba75d80749b129cdf9"),
+    "DealID" : 1008,
+    "ShortName" : "Ares IX"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5aa7a7ba75d80749b129cdfa"),
+    "DealID" : 1009,
+    "ShortName" : "Ares VIR"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5aa7a7ba75d80749b129cdfb"),
+    "DealID" : 1010,
+    "ShortName" : "Ares VR"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5aa7a7ba75d80749b129cdfc"),
+    "DealID" : 1011,
+    "ShortName" : "Artus 2007-I"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5aa7a7ba75d80749b129cdfd"),
+    "DealID" : 1012,
+    "ShortName" : "Avalon 3"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5aa7a7bb75d80749b129cdfe"),
+    "DealID" : 1013,
+    "ShortName" : "Phoenix III"
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5aa7a7bb75d80749b129cdff"),
+    "DealID" : 1014,
+    "ShortName" : "Avoca VII"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5aa7a7bb75d80749b129ce00"),
+    "DealID" : 1015,
+    "ShortName" : "Babson 2005-I"
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5aa7a7bb75d80749b129ce01"),
+    "DealID" : 1016,
+    "ShortName" : "Babson 2006-II"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5aa7a7bb75d80749b129ce02"),
+    "DealID" : 1017,
+    "ShortName" : "Bacchus 2006-1"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5aa7a7bb75d80749b129ce03"),
+    "DealID" : 1018,
+    "ShortName" : "Bacchus 2007-1"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5aa7a7bc75d80749b129ce04"),
+    "DealID" : 1019,
+    "ShortName" : "Ballyrock 2006-2"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5aa7a7bc75d80749b129ce05"),
+    "DealID" : 1020,
+    "ShortName" : "Ballyrock III"
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5aa7a7bc75d80749b129ce06"),
+    "DealID" : 1021,
+    "ShortName" : "Belhurst"
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5aa7a7bc75d80749b129ce07"),
+    "DealID" : 1022,
+    "ShortName" : "BlackRock SIS IV"
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5aa7a7bc75d80749b129ce08"),
+    "DealID" : 1023,
+    "ShortName" : "BlackRock SIS V"
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("5aa7a7bc75d80749b129ce09"),
+    "DealID" : 1024,
+    "ShortName" : "BlueMountain I"
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("5aa7a7bc75d80749b129ce0a"),
+    "DealID" : 1025,
+    "ShortName" : "BlueMountain II"
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("5aa7a7bd75d80749b129ce0b"),
+    "DealID" : 1026,
+    "ShortName" : "BlueMountain III"
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("5aa7a7bd75d80749b129ce0c"),
+    "DealID" : 1027,
+    "ShortName" : "Brentwood"
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("5aa7a7bd75d80749b129ce0d"),
+    "DealID" : 1028,
+    "ShortName" : "Bridgeport I"
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("5aa7a7bd75d80749b129ce0e"),
+    "DealID" : 1029,
+    "ShortName" : "Cadogan Square II"
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("5aa7a7bd75d80749b129ce0f"),
+    "DealID" : 1030,
+    "ShortName" : "Callidus IV"
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("5aa7a7bd75d80749b129ce10"),
+    "DealID" : 1031,
+    "ShortName" : "Callidus V"
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("5aa7a7bd75d80749b129ce11"),
+    "DealID" : 1032,
+    "ShortName" : "Carlyle X"
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("5aa7a7be75d80749b129ce12"),
+    "DealID" : 1033,
+    "ShortName" : "Castle Hill III"
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("5aa7a7be75d80749b129ce13"),
+    "DealID" : 1034,
+    "ShortName" : "CELF 2005-1"
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("5aa7a7be75d80749b129ce14"),
+    "DealID" : 1035,
+    "ShortName" : "CELF IV"
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("5aa7a7be75d80749b129ce15"),
+    "DealID" : 1036,
+    "ShortName" : "Cent 10"
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("5aa7a7be75d80749b129ce16"),
+    "DealID" : 1037,
+    "ShortName" : "Cent 12"
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("5aa7a7be75d80749b129ce17"),
+    "DealID" : 1038,
+    "ShortName" : "Cent 14"
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("5aa7a7be75d80749b129ce18"),
+    "DealID" : 1039,
+    "ShortName" : "Cent 15"
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("5aa7a7bf75d80749b129ce19"),
+    "DealID" : 1040,
+    "ShortName" : "Cent XI"
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("5aa7a7bf75d80749b129ce1a"),
+    "DealID" : 1041,
+    "ShortName" : "Centurion 9"
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("5aa7a7bf75d80749b129ce1b"),
+    "DealID" : 1042,
+    "ShortName" : "Churchill"
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("5aa7a7bf75d80749b129ce1c"),
+    "DealID" : 1043,
+    "ShortName" : "CIFC 2007-II"
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("5aa7a7bf75d80749b129ce1d"),
+    "DealID" : 1044,
+    "ShortName" : "CIFC 2007-III"
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("5aa7a7bf75d80749b129ce1e"),
+    "DealID" : 1045,
+    "ShortName" : "CIT 2007-1"
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("5aa7a7c075d80749b129ce1f"),
+    "DealID" : 1046,
+    "ShortName" : "Clear Lake"
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("5aa7a7c075d80749b129ce20"),
+    "DealID" : 1047,
+    "ShortName" : "Ares XIX"
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("5aa7a7c075d80749b129ce21"),
+    "DealID" : 1048,
+    "ShortName" : "COLTS 2007-1"
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("5aa7a7c075d80749b129ce22"),
+    "DealID" : 1049,
+    "ShortName" : "Compass 2005-II"
+}
